@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:layout_height="match_parent"
+        tools:context=".Glass_Cleaning">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:text="Glass Cleaning"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_gravity="center"
+            android:background="@color/colorPrimary"
+            android:layout_width="160dp"
+            android:layout_height="1dp">
+        </View>
+        <View
+            android:layout_marginTop="2dp"
+            android:layout_gravity="center"
+            android:background="@color/colorPrimary"
+            android:layout_width="160dp"
+            android:layout_height="1dp">
+
+        </View>
+        <TextView
+            android:textColor="@color/colorPrimary"
+            android:textSize="14dp"
+            android:layout_margin="14dp"
+            android:typeface="serif"
+            android:id="@+id/id_Definnation"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_marginBottom="12dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_gravity="center"
+            android:layout_marginTop="14dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:id="@+id/idp1"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_marginBottom="4dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/id_image1"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_gravity="center"
+            android:layout_marginTop="22dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:id="@+id/idp2"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_marginBottom="4dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/id_image2"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_gravity="center"
+            android:layout_marginTop="22dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:id="@+id/idp3"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_marginBottom="4dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/id_image3"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_gravity="center"
+            android:layout_marginTop="22dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:id="@+id/idp4"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_marginBottom="4dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/id_image4"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginBottom="22dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_gravity="center"
+            android:layout_marginTop="22dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:id="@+id/idp5"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_marginBottom="4dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_marginBottom="22dp"
+            android:layout_gravity="center"
+            android:id="@+id/id_image5"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

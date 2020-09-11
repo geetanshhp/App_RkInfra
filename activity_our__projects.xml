@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:layout_height="match_parent"
+        tools:context=".Our_Projects">
+        <TextView
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginTop="18dp"
+            android:textSize="20dp"
+            android:textColor="@color/colorPrimary"
+            android:typeface="serif"
+            android:text="Our Projects"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <View
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:layout_width="170dp"
+        android:layout_height="1dp"/>
+        <View
+            android:layout_marginTop="1dp"
+            android:layout_gravity="center"
+            android:background="@color/colorPrimary"
+            android:layout_width="170dp"
+            android:layout_height="1dp"/>
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 1"
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project1"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 2 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project2"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+
+        <TextView
+
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 3 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project3"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+
+        <TextView
+            android:layout_marginTop="22dp"
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 4 "
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project4"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 5 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project5"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+        android:typeface="serif"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp"
+        android:text="Project 6 "
+            android:layout_marginTop="22dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project6"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 7 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project7"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 8 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project8"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+        android:typeface="serif"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp"
+        android:text="Project 9 "
+            android:layout_marginTop="22dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project9"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 10 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project10"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+        android:typeface="serif"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp"
+        android:text="Project 11 "
+            android:layout_marginTop="22dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project11"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 12 "
+            android:layout_marginTop="12dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project12"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+        android:typeface="serif"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp"
+        android:text="Project 13 "
+            android:layout_marginTop="22dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project13"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+        android:typeface="serif"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18dp"
+        android:text="Project 14 "
+            android:layout_marginTop="22dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project14"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 15 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project15"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 16 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project16"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 17  "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project17"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 18 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project18"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 19 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project19"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 20  "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project20"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 21 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project21"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 22 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project22"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 23  "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project23"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 24  "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project24"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 25 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project25"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 26 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project26"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 27 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project27"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 28 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project28"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 29 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project29"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 30  "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project30"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 31 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project31"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 32 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project32"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 33 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project33"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 34 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/id_project34"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:typeface="serif"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18dp"
+            android:text="Project 35 "
+            android:layout_marginTop="22dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_marginBottom="22dp"
+            android:id="@+id/id_project35"
+            android:layout_marginTop="05dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="wrap_content" />
+
+
+
+
+    </LinearLayout>
+</ScrollView>
